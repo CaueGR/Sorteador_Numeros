@@ -7,6 +7,11 @@ function sortear(){
         alert('"Do numero" deve ser inferior ao campo "até o numero"!');
         return;
     }
+    let subtracao = ate - de + 1;
+    if(subtracao < quantidade){
+        alert('A quantidade é maior que o numero de termos');
+        return;
+    }
     let sorteados = [];
     let numero;
 
