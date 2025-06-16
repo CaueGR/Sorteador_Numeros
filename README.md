@@ -1,4 +1,3 @@
-sorteador de numeros/img/app.png
 # 🎯 Sorteador de Números
 
 O **Sorteador de Números** é uma aplicação web simples que permite ao usuário realizar sorteios de números dentro de um intervalo definido, sem repetições. O usuário pode configurar a quantidade de números, o valor inicial e o valor final para o sorteio.
